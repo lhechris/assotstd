@@ -1,0 +1,8 @@
+<div style="margin-top:0px;">
+<div class="actu_up" ></div>
+<div class="actu">
+<p>{video}http://www.youtube.com/embed/Jieco-43WNI{/video}</p>
+{facebook}{/facebook}
+</div>
+<div class="actu_down"></div>
+</div>

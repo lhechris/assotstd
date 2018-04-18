@@ -1,0 +1,11 @@
+<p style="text-align: center;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: large;">Actions men&eacute;es par l'Asso TSTD :</span></p>
+<p style="text-align: center;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;">&nbsp;</span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="index?page=prj_sene">Actions du projet S&eacute;n&eacute;gal 2010</a></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="index?page=sej_hum_sene">S&eacute;jour humanitaire S&eacute;n&eacute;gal 2010</a></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="index?page=rep_adedvi">Reportage ADEDVI 2011 &agrave; Bali</a></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="index?page=solidarity_show">Solidarity Show</a></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="index?page=gospel">Concert de Gospel</a></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="index?page=poker">Tournoi de poker</a></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="index?page=spectacle">Spectacle</a></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;" href="index?page=village_assoc">Village des Associations</a></span></p>
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="index?page=rep_tdm">Reportages Tour du Monde</a></span></p>

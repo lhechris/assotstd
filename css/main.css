@@ -1,0 +1,407 @@
+﻿
+img {
+    border:none;
+}
+
+a {
+color:navy; 
+visited:navy;
+border:none;
+}
+
+#page
+{
+    width: 100%;
+    margin: auto;
+}
+
+@font-face {
+    font-family: 'DK Lemon Yellow Sun';
+    src: url('font/DKLemonYellowSun.ttf');
+}
+
+/* ============================================================================
+               Header 
+   ==========================================================================*/
+header
+{
+    white-space : no-wrap;
+    display: inline-block;
+    width:100%;
+}
+
+/*header h1
+{
+    font-family: 'Amatic SC', cursive;
+    color :#a46c30;
+    font-size: 35px;
+    font-weight: bold;
+}*/
+
+header h1, header logo
+{
+    display: inline-block;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+/*header h2
+{
+    font-family: 'Patua One', cursive;
+    color :black;
+    font-size: 2.5em;
+    margin-top: 0px;
+    font-weight: normal;
+    text-transform: uppercase;    
+}*/
+header img
+{
+    display: inline-block;
+	vertical-align : top;
+}
+
+/*header h3
+{
+    font-family: 'Patua One', cursive;
+    color :#a46c30;
+    font-size: 1.1em;
+    margin-top: 0px;
+    font-weight: normal;
+    display: inline-block;
+    vertical-align : top;
+}*/
+/* ============================================================================
+    corp            
+   ==========================================================================*/
+#corp {
+   display : inline-block; 
+}
+
+/* ============================================================================
+    navigation            
+   ==========================================================================*/
+nav {
+    width: 220px;
+    display : inline-block;
+    vertical-align: middle;
+    text-align : center;	
+	display : inline-block;
+}
+
+nav a {
+	text-decoration:none; 
+	text-transform: uppercase;
+	vertical-align:middle;
+    color:black;
+    font-size:12px;
+    /*font-family: 'Patua One',georgia ,Arial;*/
+    font-family: georgia ,Arial;
+}
+
+nav ul ul li a {
+    text-transform: capitalize;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left:2px; 
+}
+
+nav li {
+	border: 4px solid #bb7a27;
+	background-image:url(../images/fond_article50.png);
+	width:200px;
+	height:30px;
+	line-height:30px;
+    margin-top:-4px;
+}
+
+nav li:hover {
+    background-image:none;
+}
+
+nav ul ul{
+        margin-top:4px;
+        padding-left:30px;
+}
+nav ul ul li {
+	border: none;
+	background-image:url(../images/fond_article50.png);
+	width:178px;
+}
+
+/* ============================================================================
+    contenu            
+   ==========================================================================*/
+#contenu {
+    width: 750px;
+    display : inline-block;
+    vertical-align: top;
+    /*font-family: 'Patua One', georgia ,Arial;*/
+    font-family: georgia ,Arial;
+    color: #333333;
+    font-size: 14px;
+    margin-top:-100px;
+}
+
+article, aside{
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+
+article{
+    /*width: 625px;*/
+    margin-right: 15px;    
+}
+
+article *.contenu_article {
+    background-image:url(../images/fond_article50.png);
+    padding:30px 30px;
+    margin-top:-30px;
+}
+.actu_up{
+    width: 720px;
+	height:216px;
+	padding-left:80px;
+	background-image:url(../images/actu_up.png);
+    background-repeat:no-repeat;
+}
+.actu{
+    width: 660px;
+	margin-top:-15px;
+	padding-left:115px;
+	background-image:url(../images/actu.png);
+    background-repeat:repeat;
+}
+.actu_down{
+    width: 720px;
+	height:216px;
+	margin-top:-15px;
+	padding-left:80px;
+	background-image:url(../images/actu_down.png);
+    background-repeat:no-repeat;
+}
+
+
+article *.titre_article {
+    background-image:url(../images/bandeau_article.png);
+	width:700px;
+    height:95px;
+    line-height:95px;
+    color:white;  
+    padding-left:20px;
+    font-size:30px;
+    font-family: 'DK Lemon Yellow Sun', 'Amatic SC',cursive;
+}
+
+article h1 {
+    font-size:40px;
+    font-family: 'DK Lemon Yellow Sun','Amatic SC', cursive;
+    margin-top:-20px;
+    height:30px;
+}
+
+article h2 {
+    font-style: italic;
+    font-weight: bold;
+    font-size:1em;
+    border-bottom:1px solid #333333;
+}
+
+aside {
+    position: fixed;
+    top:5px;
+    right:20px;
+    width: 210px;
+    
+    /*background-color: #706b64;*/
+
+    /*padding: 10px;*/
+    color:black;
+    font-size: 1.0em;
+    text-align:center;
+}
+
+.projetencours {
+    font-size:1.5em;
+    text-align:center;
+    background:url(../images/fond_article50.png) repeat;
+    box-shadow: 0px 2px 5px #1c1a19;
+    height:240px;
+    border-radius: 5px;
+    color: black;
+}
+
+.avertissement {
+    font-size:1.2em;
+	padding-top:10px;
+    background:url(../images/fond_article50.png) repeat;
+    box-shadow: 0px 2px 5px #1c1a19;
+    height:240px;
+    border-radius: 5px;
+    color: black;
+}
+
+.contact {
+   font-family: 'Amatic SC', cursive,georgia;
+   font-size:28px;
+   color:black;
+}
+
+.galerie {
+   width:90%;
+   padding:10px;
+   border:3px solid black;
+   border-radius:5px;
+   margin:10px;
+}
+
+.news {
+  font:12px georgia,verdana,sans-serif;
+  text-align:center;
+}
+.contentnews {
+  border:4px solid sienna;
+  border-radius:10px;
+  padding:7px 7px 7px 7px;
+  background-color:burlywood;
+  margin-bottom:3px;
+  width:600px;
+}
+
+/* ============================================================================
+                
+   ==========================================================================*/
+
+#header{
+    white-space : no-wrap;
+    width : 100%;
+    /*padding : 2px 0 1px;*/
+    position : fixed;
+    /*border-top: solid 8px #dbb45e;*/
+    z-index : 2;
+    top : 0;
+}
+
+#footer {
+    width:100%;
+  /*  padding : 2px 0 1px;*/
+    position:fixed; 
+    bottom:0; 
+}
+
+.submenu {   
+    font-family: 'Satisfy', cursive;
+    font-size:18px;
+}
+
+.submenu a {
+color:navy; 
+visited:navy;
+border:none;
+}
+.submenu a:hover {
+   color:purple;
+}
+.submenu a:link { 
+ text-decoration:none; 
+}
+.titre_1 {
+   font-family: 'Patua One', cursive;
+   font-size : 24px;
+   color :#a46c30;
+}
+.titre_2 {
+   font-family: 'Patua One', cursive;
+   font-size : 24px;
+   color :#583a14;
+}
+.titre_4 {
+   font-family: 'Patua One', cursive;
+   font-size : 24px;
+   color :#7e531d;
+}
+.titre_3 {
+   font-family: 'Patua One', cursive;
+   font-size : 24px;
+   color :#365429;
+}
+.titre_5 {
+   font-family: 'Patua One', cursive;
+   font-size : 24px;
+   color :#38453d;
+}
+
+.gauche {
+   /* background-color:blue;*/
+    width:220px;
+   /* height:649px;*/
+      
+}
+   
+.milieu {
+   /* background-color:pink;*/
+    width:60%;
+/*    height:860px; */
+}
+
+.moncontent {
+/*    overflow:auto;  */
+/*    height:760px;  */
+    width:100%;
+}
+
+.slideshow {
+    border:4px solid sienna;
+    border-radius:10px;
+    position:relative;
+	width:315px;
+	height:264px;
+}
+
+.droite {
+    position:fixed;
+    top:0px;
+    right:200px;
+    width:125px;
+  /*  height:649px; */  
+    z-index:3;  
+} 
+
+@font-face {
+    font-family: "BrushScriptMT1";
+    src: url('font/BRUSHSCI.TTF');
+}
+/*@font-face {
+    font-family: "Brush Script MT";
+    font-style: italic;
+    src: url('MaSuperFonte-Italic.ttf');
+}
+@font-face {
+    font-family: "Brush Script MT";
+    font-weight: bold;
+    src: url('MaSuperFonte-Bold.ttf');
+}*/
+
+.gal_grid {
+}
+
+/*.gal_grid div  {
+    display:inline-block; 
+    vertical-align: top;
+    padding:20px 20px 20px 20px;
+}*/
+
+.gal_lists {
+    width:200px;
+    /*padding:10px 5px 5px 20px;*/
+}
+
+.gal_lists_cadre {
+    background-image:url('../images/cadre-photo1.png');
+    background-repeat:no-repeat;
+    width:180px;
+    height:120px;
+    padding:12px 0px 0px 13px;
+}
