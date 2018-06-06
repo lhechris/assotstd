@@ -131,7 +131,7 @@ class menulist extends component {
 
 $mainmenus=array(
     new mainmenu(2,"association","L'association","association.gif","association_s2.gif",'association_s3.gif',177,16,'association_r1_c14.gif',"titre_3"),
-    new mainmenu(3,"projets",    "Les projets","project.gif",    "project_s2.gif",    'project_s3.gif',    113,16,'fond_violet.png'      ,'titre_4'),
+    new mainmenu(3,"projets",    "Les projets","project.gif",    "project_s2.gif",    'project_s3.gif',    113,16,'association_r1_c14.gif'      ,'titre_4'),
     new mainmenu(1,"actions",    "Actions",  "actions.gif",    "actions_s2.gif",    'actions_s3.gif',    113,16,'fond_bleu.png',    'titre_2'),
     new mainmenu(4,"galerie",    "Les galeries photos","gallery.gif",    "gallery_s2.gif",    'gallery_s3.gif',    114,16,'fond_rose.png' ,'titre_5'),
     new mainmenu(30,"vidéos",    "Les Vidéos","",    "",    '',    112,16,'index_r6_c6.gif','titre_5'),

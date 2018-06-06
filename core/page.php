@@ -286,35 +286,59 @@ function get_menus($mainmenu) {
 }
 
 function projet_encours() {
-/*        $ret     = "<p class=\"avertissement\">L'association participe au trophées des associations 2015<br/>";
-        $ret    .= '<iframe src="http://tropheesfondation.edf.com/domains-assets/tda/WidgetVote.aspx?domain=tropheesfondation&assoId=32746" width="330" height="235" style="border:none;overflow:hidden;"></iframe>';
-        $ret    .= "</p>";*/
-        $ret     = "<p class=\"avertissement\">Trek for smiles<br/>";
-        //$ret    .="<a href=\"https://zeglobetrotterblog.wordpress.com/\">";
-        $ret    .="<a href=\"index?page=32\">";
-        $ret    .="<img width=\"200\" height=\"200\" name=\"\" src=\"images/affiches/Trek4Smiles.jpg\" alt=\"\" />";
-        $ret    .="</a>";
+        $ret     = "<a href=\"index?page=32\">";
+        $ret    .= "<p class=\"projetencours\">Trek for smiles<br/>";
+        $ret    .= "<img name=\"\" src=\"images/affiches/TrekForSmiles.jpeg\" alt=\"\" />";
         $ret    .= "</p>";
-		$ret    .= "<p class=\"projetencours\" style=\"height:200px\" >Instagram<br/>";
-        $ret    .= "<a href=\"https://www.instagram.com/martinm_photographer\" target=\"blank\" >";
+        $ret    .= "</a>";
+		$ret    .= "\n";
+
+		$paypal  = '<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">';
+		$paypal  .= '<p class="dons">';
+        $paypal  .= '<input type="hidden" name="cmd" value="_s-xclick" />';
+        $paypal  .= '<input type="hidden" name="hosted_button_id" value="APZTQ7VJR3TQW" />';
+        $paypal  .= '<input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !" />';
+        $paypal  .= '<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1" />';
+        $paypal  .= "</p></form>";
+        
+        $ret    .= "<p><strong>Aidez l'association en faisant un don</strong></p>".$paypal;
+
+		
+		
+		$ret    .= "<div class=\"sociaux\"><table>";
+		$ret    .= "<tr>";
+
+        $ret    .= "<td><a href=\"https://www.instagram.com/martinm_photographer\" target=\"blank\" >";
+		$ret    .= "Instagram<br/>";
         $ret    .= "<img src=\"images/instagram.jpg\"/>";
-        $ret    .= "</a>";
-        $ret    .= "</p>\n";
-		$ret    .= "<p class=\"projetencours\" style=\"height:120px\">Facebook<br/>";
-        $ret    .= "<a href=\"https://www.facebook.com/assotstd\" target=\"blank\" >";
-        $ret    .= "<img width=\"90\" height=\"90\" src=\"images/FB-fLogo-Blue-broadcast-2.png\"/>";
-        $ret    .= "</a>";
-        $ret    .= "</p>\n";
+        $ret    .= "</a></td>\n";
+		
+        $ret    .= "<td><a href=\"https://www.facebook.com/assotstd\" target=\"blank\" >";
+		$ret    .= "Facebook<br/>";
+        $ret    .= "<img src=\"images/FB-fLogo-Blue-broadcast-2.png\"/>";
+        $ret    .= "</a></td>\n";
+        $ret    .= "</tr><tr>\n";
+		
+		$ret    .= "<td><a href=\"https://www.youtube.com/user/zeglobetrotter\" target=\"blank\" >";
+		$ret    .= "Youtube<br/>";
+        $ret    .= "<img src=\"images/logoyoutube.jpg\"/>";
+        $ret    .= "</a></td>\n";
+
+		$ret    .= "<td><a href=\"https://www.linkedin.com/company/association-tstd\" target=\"blank\" >";
+		$ret    .= "Linkedin<br/>";
+        $ret    .= "<img src=\"images/In-2C-59px-TM.png\"/>";
+        $ret    .= "</a></td>\n";
+
+		
+
+		
+		$ret    .= "</tr>";
+		$ret    .= "\n";
+
+		$ret    .= "</table></div>";
+
+		$ret    .= "\n";
         
-        $paypal  = '<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">';
-        $paypal  .= '<input type="hidden" name="cmd" value="_s-xclick">';
-        $paypal  .= '<input type="hidden" name="hosted_button_id" value="APZTQ7VJR3TQW">';
-        $paypal  .= '<input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">';
-        $paypal  .= '<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">';
-        $paypal  .= "</form>\n";
-        
-        $ret    .= "<p><strong>Aidez l'association en faisant un don</strong></p>\n".$paypal;
-        //$ret    .= '<img name="index_r1_c17" src="images/index_r1_c17.gif" width="125" height="649" id="index_r1_c17" alt="" />';
         return $ret;
 }
 

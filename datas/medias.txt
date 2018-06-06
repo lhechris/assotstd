@@ -1,24 +1,20 @@
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><strong><span style="font-size: medium;">Projet 2012 - 2013 :</span></strong></p>
+<p style="text-align: center;"><span style="font-size: large;"><strong>Projet 2012 - 2013 :</strong></span></p>
 <p style="text-align: center;"><span style="font-size: small;"><strong>Rueil TV</strong> a suivi l'aventure du tour du monde humanitaire 2012 - 2013 et nous a consacr&eacute; 4 reportages.</span></p>
 <p style="text-align: center;"><span style="font-size: small;">Merci &agrave; eux !</span></p>
-<p style="text-align: center;"><span style="font-size: small;"><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-Oakz9CK1Z7yQzw5zsME_zUjoucV2YblosWSFYWhWJlGqZ8I1" alt="" /></span></p>
 <p style="text-align: center;"><span style="font-size: small;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Reportage sur l'exposition photo &agrave; l'Espace Renoir de Rueil Malmaison jusqu'au 21 f&eacute;vrier</span></p>
+<p style="text-align: center;"><span style="font-size: small;">- Reportage sur l'exposition photo &agrave; l'Espace Renoir de Rueil Malmaison jusqu'au 21 f&eacute;vrier</span></p>
 <p style="text-align: center;"><span style="font-size: small;">et pr&eacute;sentation du projet pour aider un orphelinat de filles en Inde du Sud</span></p>
-<p style="text-align: center;"><span style="font-size: small;"><iframe src="http://www.rueil-tv.com/embed-3433.html" frameborder="0" width="640" height="640"></iframe></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: small;">- Reportage r&eacute;alis&eacute; 2 jours apr&egrave;s mon retour en France</span></p>
+<p><span style="font-size: small;">&nbsp;&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small;">- Le reportage r&eacute;alis&eacute; 3 mois apr&egrave;s mon d&eacute;part alors que j'&eacute;tais en Afrique du Sud :</span></p>
 <p style="text-align: center;"><span style="font-size: small;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Reportage r&eacute;alis&eacute; 2 jours apr&egrave;s mon retour en France</span></p>
-<p><span style="font-size: small;"><iframe style="display: block; margin-left: auto; margin-right: auto;" src="http://www.rueil-tv.com/embed-3105.html" frameborder="0" width="640" height="480"></iframe></span></p>
+<p style="text-align: center;"><span style="font-size: small;">- Le reportage avant le d&eacute;part pour un an de voyage autour du monde :</span></p>
 <p style="text-align: center;"><span style="font-size: small;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Le reportage r&eacute;alis&eacute; 3 mois apr&egrave;s mon d&eacute;part alors que j'&eacute;tais en Afrique du Sud :</span></p>
-<p style="text-align: center;"><span style="font-size: small;"><iframe src="http://www.rueil-tv.com/embed-2539.html" frameborder="0" width="480" height="270"></iframe></span></p>
 <p style="text-align: center;"><span style="font-size: small;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Le reportage avant le d&eacute;part pour un an de voyage autour du monde :</span></p>
-<p style="text-align: center;"><span style="font-size: small;"><iframe src="http://www.rueil-tv.com/embed-2265.html" frameborder="0" width="640" height="360"></iframe></span></p>
-<p style="text-align: center;"><span style="font-size: small;">&nbsp;</span></p>
-<p><span style="font-size: small;"><strong>Dans l'&eacute;mission Allo la plan&egrave;te&nbsp;</strong></span></p>
+<p><span style="font-size: medium;"><strong>Dans l'&eacute;mission Allo la plan&egrave;te&nbsp;</strong></span></p>
 <p><span style="font-size: small;">&nbsp;</span></p>
 <p><span style="font-size: small;">J'ai eu la chance que mon voyage autour du monde int&eacute;resse l'&eacute;mission <strong>Allo la Plan&egrave;te</strong> sur <strong>le Mouv</strong>'. J'ai pu raconter et partager mon voyage avec les auditeurs de cette &eacute;mission.</span></p>
 <p><span style="font-size: small;">Un pur plaisir que d'&eacute;changer avec Eric Lange, l'animateur de cette &eacute;mission.</span></p>
@@ -43,4 +39,4 @@
 <div style="text-align: justify;"><span style="font-size: small;">&nbsp;</span></div>
 <p><span style="font-size: small;">Mon passage alors que j'&eacute;tais en Afrique du Sud :</span></p>
 <p><span style="font-size: small;"><iframe src="http://www.lemouv.fr/player/export-reecouter?content=89298" frameborder="0" scrolling="no" width="481" height="139"></iframe></span></p>
-<div style="text-align: justify;">&nbsp;</div>
+<div style="text-align: justify;"><span style="font-size: small;">&nbsp;</span></div>

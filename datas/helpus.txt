@@ -1,25 +1,25 @@
 <p>&nbsp;</p>
 <h1 style="text-align: center;">Faites un don</h1>
-<p style="text-align: center;"><span style="font-size: small;"><strong>L'association &laquo;Tous Semblables, Tous Diff&eacute;rents&raquo;&nbsp;(TSTD) a besoin de vos dons afin de r&eacute;aliser ses projets.</strong></span></p>
-<p style="text-align: center;"><span style="font-size: small;">Si nos actions vous touchent et que vous souhaitez nous aider, vous pouvez le faire <span style="font-size: small; color: #ff0000;"><strong>avec un don</strong></span> qui nous permettra </span></p>
-<p style="text-align: center;"><span style="font-size: small;">d'acheter des fournitures scolaires pour une &eacute;cole en Afrique ou en Asie.</span></p>
-<p style="text-align: center;"><span style="font-size: small;"><strong>80&euro; de don, par exemple, offre un an de parrainage &agrave; un enfant du village de Tampaksiring (Bali)</strong></span></p>
-<p style="text-align: center;"><span style="font-size: small;">pour lui permettre d'aller &agrave; l'&eacute;cole maternelle Sandie Kresna.</span></p>
-<p><span style="font-size: small;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: small;">L&rsquo;aide financi&egrave;re peut &ecirc;tre effectu&eacute;e par <strong>virement bancaire ou par ch&egrave;que.</strong>&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Contactez-nous, s&rsquo;il vous pla&icirc;t, pour plus de d&eacute;tails.</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Notre adresse Email : <a href="mailto:assotstd92@gmail.com"><strong>assotstd92@gmail.com</strong></a></span></p>
-<p style="text-align: center;"><span style="font-size: small;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Si vous souhaitez <strong><span style="color: #ff0000;">devenir adh&eacute;rent</span></strong> de l'association TSTD, <span style="font-size: small; color: #ff0000;"><strong><span style="font-size: small;">la cotisation est de 10&euro;</span></strong></span> seulement pour l'ann&eacute;e.</span></p>
-<p style="text-align: center;">&nbsp;</p>
-<p style="text-align: center;"><span style="font-size: small;">L'Association &laquo;Tous Semblables, Tous Diff&eacute;rents&raquo; poss&egrave;de son propre compte en banque.</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Toute l'&eacute;quipe de l'association travaille en b&eacute;n&eacute;volat.</span></p>
-<p><span style="font-size: small;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: small;"><strong><em>TOUT CE QUE VOUS DONNEZ A L'ASSOCIATION &laquo;Tous Semblables, Tous Diff&eacute;rents&raquo; EST REVERSE INTEGRALEMENT AUX ASSOCIATIONS QUE NOUS SOUTENONS AU TRAVERS LE MONDE.</em></strong></span></p>
-<p><span style="font-size: small;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><strong>L'association &laquo;Tous Semblables, Tous Diff&eacute;rents&raquo;&nbsp;(TSTD) a besoin de vos dons afin de r&eacute;aliser ses projets.</strong></span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Si nos actions vous touchent et que vous souhaitez nous aider, vous pouvez le faire <span style="font-size: small; color: #ff0000;"><strong>avec un don</strong></span> qui nous permettra </span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">d'acheter des fournitures scolaires pour une &eacute;cole en Afrique ou en Asie.</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><strong>80&euro; de don, par exemple, offre un an de parrainage &agrave; un enfant du village de Tampaksiring (Bali)</strong></span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">pour lui permettre d'aller &agrave; l'&eacute;cole maternelle Sandie Kresna.</span></p>
+<p><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">L&rsquo;aide financi&egrave;re peut &ecirc;tre effectu&eacute;e par <strong>virement bancaire ou par ch&egrave;que.</strong>&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Contactez-nous, s&rsquo;il vous pla&icirc;t, pour plus de d&eacute;tails.</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Notre adresse Email : <a href="mailto:assotstd92@gmail.com"><strong>assotstd92@gmail.com</strong></a></span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Si vous souhaitez <strong><span style="color: #ff0000;">devenir adh&eacute;rent</span></strong> de l'association TSTD, <span style="font-size: small; color: #ff0000;"><strong><span style="font-size: small;">la cotisation est de 10&euro;</span></strong></span> seulement pour l'ann&eacute;e.</span></p>
+<p style="text-align: center;"><span style="font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">L'Association &laquo;Tous Semblables, Tous Diff&eacute;rents&raquo; poss&egrave;de son propre compte en banque.</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Toute l'&eacute;quipe de l'association travaille en b&eacute;n&eacute;volat.</span></p>
+<p><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><strong><em>TOUT CE QUE VOUS DONNEZ A L'ASSOCIATION &laquo;Tous Semblables, Tous Diff&eacute;rents&raquo; EST REVERSE INTEGRALEMENT AUX ASSOCIATIONS QUE NOUS SOUTENONS AU TRAVERS LE MONDE.</em></strong></span></p>
+<p><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>
 <hr />
-<p style="text-align: center;"><span style="font-size: small;">Si vous &ecirc;tes lyc&eacute;ens ou &eacute;tudiants et que vous souhaitez organiser des actions pour soutenir nos projets, n'h&eacute;sitez pas &agrave; nous contacter</span><br /><span style="font-size: small;"> par E-mail : <a href="mailto:assotstd92@gmail.com">assotstd92@gmail.com</a></span></p>
-<p style="text-align: center;"><br /><span style="font-size: small;">Si votre lyc&eacute;e organise une journ&eacute;e solidaire ou humanitaire, nous sommes pr&ecirc;ts &agrave; y participer.</span></p>
-<p style="text-align: center;"><span style="font-size: small;">Plus l'association TSTD peut faire parler d'elle, mieux c'est !</span></p>
-<p><span style="font-size: small;">&nbsp;</span></p>
-<p><span style="font-size: small;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Si vous &ecirc;tes lyc&eacute;ens ou &eacute;tudiants et que vous souhaitez organiser des actions pour soutenir nos projets, n'h&eacute;sitez pas &agrave; nous contacter</span><br /><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"> par E-mail : <a href="mailto:assotstd92@gmail.com">assotstd92@gmail.com</a></span></p>
+<p style="text-align: center;"><br /><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Si votre lyc&eacute;e organise une journ&eacute;e solidaire ou humanitaire, nous sommes pr&ecirc;ts &agrave; y participer.</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Plus l'association TSTD peut faire parler d'elle, mieux c'est !</span></p>
+<p><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>
+<p><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>

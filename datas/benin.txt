@@ -1,10 +1,10 @@
 <h1 class="example1" style="text-align: left;">&nbsp;</h1>
 <h1 style="text-align: center;">Projet B&eacute;nin 2017 - 2018</h1>
-<p style="text-align: center;"><span style="font-size: medium;">Objectif : r&eacute;aliser l'&eacute;pisode 1 de la s&eacute;rie de documentaires sur les femmes</span></p>
-<p style="text-align: center;"><span style="font-size: medium;">et soutenir les actions de 2 associations</span></p>
+<p style="text-align: center;"><strong><span style="font-size: medium;">Objectif : r&eacute;aliser l'&eacute;pisode 1 de la s&eacute;rie de documentaires sur les femmes</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: medium;">et soutenir les actions de 2 associations</span></strong></p>
 <p style="text-align: center;"><span style="font-size: medium;">&nbsp;</span></p>
-<p style="text-align: center;"><span style="font-size: medium;">Pour ce nouveau projet, l'association TSTD a trouv&eacute; deux associations franco-b&eacute;ninoises qui ont accept&eacute; d'&ecirc;tre partenaires.</span></p>
-<p style="text-align: center;"><span style="font-size: medium;">Le reportage r&eacute;alis&eacute; pourra &ecirc;tre ensuite diffus&eacute; dans des &eacute;coles, coll&egrave;ges ou lyc&eacute;es fran&ccedil;ais.&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Pour ce nouveau projet, l'association TSTD a trouv&eacute; deux associations franco-b&eacute;ninoises qui ont accept&eacute; d'&ecirc;tre partenaires.</span></p>
+<p style="text-align: center;"><span style="font-size: medium;"><strong><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;">Le reportage r&eacute;alis&eacute; pourra &ecirc;tre ensuite diffus&eacute; dans des &eacute;coles, coll&egrave;ges ou lyc&eacute;es fran&ccedil;ais</span>.</strong>&nbsp;</span></p>
 <p><a title="Oasis de Tokpota" href="http://www.benin-espoirs.com" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://www.benin-espoirs.com/wp-content/uploads/2012/09/LOGO_OASIS_SELECTION_CLIENT-018.jpg" alt="" width="547" height="274" /></a></p>
 <h5><span style="font-size: medium;"><strong>Comment est n&eacute;e l'Oasis de Tokpota ?</strong></span></h5>
 <p style="text-align: justify;"><span style="font-size: small;">Georges Dutreuil &nbsp;s&rsquo;est rendu au&nbsp;BENIN&nbsp;pour accompagner un projet de formation professionnelle &nbsp;mis en route il y a une dizaine d&rsquo;ann&eacute;es&nbsp; avec des amis b&eacute;ninois et&nbsp;BAZAR SANS FRONTIERES.</span></p>
@@ -23,11 +23,11 @@
 <div style="text-align: center;"><span style="font-size: small;"><strong>- des nounous, des portes cl&eacute;s en nounous, bics, gouaches de toutes les couleurs</strong></span></div>
 <div style="text-align: center;"><span style="font-size: small;"><strong>- des ballons de boduches, des petits sacs, des peluches , des puzzles</strong></span></div>
 <div style="text-align: center;"><span style="font-size: small;"><strong>- des papiers canson, des papiers cr&eacute;pons de toutes les couleurs, des papiers carbone</strong></span></div>
-<div style="text-align: center;"><span style="font-size: small;"><strong>- des toiles &agrave; peindre de grand format, du scotch, de la peinture, des pinceaux, des cutters et des pots de colle</strong></span></div>
+<div style="text-align: center;"><span style="font-size: small;"><strong>- du scotch, de la peinture, des pinceaux, des cutters et des pots de colle</strong></span></div>
 <div style="text-align: center;"><span style="font-size: small;"><strong>- des jeux de quilles, de boules , de la famille . etc...</strong></span></div>
 <p><span style="font-size: small;">&nbsp;</span></p>
 <h1 class="ydpa227867eMsoNormal" style="text-align: center;"><a title="Les Enfants du Soleil France B&eacute;nin" href="http://www.lesenfantsdusoleilfrancebenin.cabanova.com" target="_blank">Les Enfants du Soleil France B&eacute;nin</a></h1>
-<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;<iframe style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/1se1acS2LZM" frameborder="0" width="425" height="350"></iframe></strong></p>
 <h5><span style="font-size: medium;"><strong>Leurs actions au B&eacute;nin :</strong></span></h5>
 <p><span style="font-size: small;">- <strong>Un centre de r&eacute;cup&eacute;ration nutritionnelle</strong> donne des soins aux enfants atteints de malnutritions.</span></p>
 <p><span style="font-size: small;">- Leurs mamans viennent 3 fois/semaine <strong>apprendre &agrave; utliser les produits alimentaires locaux</strong>. Elles cuisinent bouillies et plats suivant l'&acirc;ge de leurs enfants.</span></p>
@@ -37,5 +37,5 @@
 <p><span style="font-size: small; color: #000000;">- <strong>Recherche de parrains</strong> pour les enfants, pour la vie du centre.</span></p>
 <p><span style="font-size: small;">&nbsp;</span></p>
 <h5><span style="font-size: medium;"><strong>Action men&eacute;e par l'association TSTD :</strong></span></h5>
-<p><span style="font-size: small;">Le pr&eacute;sident de l'association TSTD a r&eacute;alis&eacute;&nbsp;<strong>un reportage sur les actions de cette association et a fait des interviews des mamans</strong>. Il sera en immersion d'une semaine &agrave; 10j.</span></p>
-<p><span style="font-size: small;"><iframe style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/I3RgHE-cAt0" frameborder="0" width="425" height="350"></iframe></span></p>
+<p><span style="font-size: small;">Le pr&eacute;sident de l'association TSTD a r&eacute;alis&eacute;&nbsp;<strong>un reportage sur les actions de cette association et fait des interviews des mamans</strong>. Il a &eacute;t&eacute; en immersion 10j.</span></p>
+<p><span style="font-size: small;"><iframe style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/I3RgHE-cAt0" frameborder="0" width="425" height="350"></iframe>&nbsp;</span></p>
