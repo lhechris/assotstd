@@ -52,6 +52,7 @@ $articles=array(
     new article(115,23,'tdm',            "article_tdm.png"),
     new article(116,24,'inde',           "article_inde.png"),
     new article(117,25,'cameroun',       "article_cameroun.png"),
+    new article(125,33,'trek_for_smiles_kids', "article_cameroun.png"),
     new article(124,32,'trek_for_smiles', "article_cameroun.png"),
     new article(123,31,'benin',          "article_cameroun.png"),
     new article(118,26,'partageunmonde', "partageunmonde.png"),

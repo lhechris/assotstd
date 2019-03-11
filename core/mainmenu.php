@@ -157,6 +157,7 @@ $menus=array(
     new menu(20,1,'blog',           'menu_blog.png',           'menu_blog_over.png',           "Blog de l'association",'http://assotstd.over-blog.com'),
     new menu(21,1,'blogtdm',        'menu_blog_tdm.png',       'menu_blog_tdm_over.png',       "Blog tour du monde",'http://zeglobetrotter.blogspot.fr'),
     
+    new menu(33,3,'trek_for_smiles_kids', "menu_cameroun.png",  "menu_cameroun_over.png","Projet Trek for smiles kids",''),
     new menu(32,3,'trek_for_smiles', "menu_cameroun.png",  "menu_cameroun_over.png","Projet Trek for smiles",''),
     new menu(31,3,'benin',          "menu_cameroun.png",  "menu_cameroun_over.png","Projet Benin",''),
     new menu(27,3,'souriredumonde', '',       '',       "Sourire du monde",''),

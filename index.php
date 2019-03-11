@@ -2,7 +2,7 @@
 
 require_once("core/page.php");
 require_once("core/pay_api.php");
-
+require_once("core/compteur.php");
 $id=0;
 
 if (isset($_GET['buy'])) {
