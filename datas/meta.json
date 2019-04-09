@@ -1,0 +1,38 @@
+{
+    "menus" : {
+        "L'association" : [
+            {"id" : 1 , "name" : "L'association", "filename" : "association.txt"},
+            {"id" : 2 , "name" : "L'équipe", "filename" : "team.txt"},
+            {"id" : 3 , "name" : "Objectif", "filename" : "objectif.txt"},
+            {"id" : 4 , "name" : "Aidez nous", "filename" : "helpus.txt"},
+            {"id" : 5 , "name" : "Concours", "filename" : "concours.txt"}
+        ],     
+
+        "Les projets" : [
+            {"id" : 6 , "name" : "Projet Trek for smiles kids", "filename" : "trek_for_smiles_kids.txt"},
+            {"id" : 7 , "name" : "Projet Trek for smiles", "filename" : "trek_for_smiles.txt"},
+            {"id" : 8 , "name" : "Projet Benin", "filename" : "benin.txt"},
+            {"id" : 9 , "name" : "Sourire du monde", "filename" : "souriredumonde.txt"},
+            {"id" : 10 , "name" : "Partage un monde", "filename" : "partageunmonde.txt"},
+            {"id" : 11 , "name" : "Projet Inde", "filename" : "inde.txt"},
+            {"id" : 12 , "name" : "Tour du monde humanitaire", "filename" : "tdm.txt"},
+            {"id" : 13 , "name" : "Projet Cameroun", "filename" : "cameroun.txt"},
+            {"id" : 14 , "name" : "Ado au Sénégal", "filename" : "senegal.txt"},
+            {"id" : 15 , "name" : "Média", "filename" : "medias.txt"},
+            {"id" : 16 , "name" : "Ils nous ont soutenus", "filename" : "sponsor.txt"}
+        ],
+        "Les actions" : [
+            {"id" : 17 , "name" : "Projet Sénégal 2010", "filename" : "prj_sene.txt"},
+            {"id" : 18 , "name" : "Séjour humanitaire Sénégal", "filename" : "sej_hum_sene.txt"},
+            {"id" : 19 , "name" : "Reportage ADEDVI", "filename" : "rep_adedvi.txt"},
+            {"id" : 20 , "name" : "Reportage Tour du monde", "filename" : "rep_tdm.txt"},
+            {"id" : 21 , "name" : "Solidarity Show", "filename" : "solidarity_show.txt"},
+            {"id" : 22 , "name" : "Concert de Gospel", "filename" : "gospel.txt"},
+            {"id" : 23 , "name" : "Tournois de Poker", "filename" : "poker.txt"},
+            {"id" : 24 , "name" : "Spectacle", "filename" : "spectacle.txt"},
+            {"id" : 25 , "name" : "Village des associations", "filename" : "village_assoc.txt"}
+        ]        
+
+
+    }
+}

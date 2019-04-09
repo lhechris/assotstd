@@ -1,0 +1,25 @@
+
+2019/04/01 13:41:07 C:\Users\clhermit\Documents\perso\assotstd\api\daoPages.php[16]
+2019/04/01 13:41:07 Undefined variable: menus
+2019/04/01 13:41:07 Undefined variable: menus
+2019/04/01 13:45:25 C:\Users\clhermit\Documents\perso\assotstd\api\daoPages.php[16]
+2019/04/01 13:45:25 Undefined variable: menus
+2019/04/01 13:45:25 Undefined variable: menus
+2019/04/05 09:44:31 C:\Users\clhermit\Documents\perso\assotstd\api\daoPages.php[40]
+2019/04/05 09:44:31 Array to string conversion
+2019/04/05 09:44:31 Array to string conversion
+2019/04/08 13:34:06 C:\Users\clhermit\Documents\perso\assotstd\api\daoPages.php[54]
+2019/04/08 13:34:06 Undefined property: daoPages::$pages
+2019/04/08 13:34:06 Undefined property: daoPages::$pages
+2019/04/08 13:35:26 C:\Users\clhermit\Documents\perso\assotstd\api\daoPages.php[56]
+2019/04/08 13:35:26 file_get_contents(C:\Users\clhermit\Documents\perso\assotstd\api\..\datas\6.txt): failed to open stream: No such file or directory
+2019/04/08 13:35:26 file_get_contents(C:\Users\clhermit\Documents\perso\assotstd\api\..\datas\6.txt): failed to open stream: No such file or directory
+2019/04/08 13:45:36 C:\Users\clhermit\Documents\perso\assotstd\api\restPages.php[35]
+2019/04/08 13:45:36 Undefined variable: newResponse
+2019/04/08 13:45:36 Undefined variable: newResponse
+2019/04/08 16:47:52 C:\Users\clhermit\Documents\perso\assotstd\api\restRegister.php[22]
+2019/04/08 16:47:52 Undefined index: login
+2019/04/08 16:47:52 Undefined index: login
+2019/04/08 16:49:32 C:\Users\clhermit\Documents\perso\assotstd\api\restRegister.php[22]
+2019/04/08 16:49:32 Undefined index: login
+2019/04/08 16:49:32 Undefined index: login
